@@ -1,2 +1,3 @@
-# Dart-Record-Pattern
-Dart Record Pattern
+# patterns_codelab
+
+A new Flutter project.
